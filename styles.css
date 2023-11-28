@@ -1,0 +1,8 @@
+* {
+  background: blue;
+}
+
+h1 {
+  color: white;
+  text-transform: capitalize;
+}
